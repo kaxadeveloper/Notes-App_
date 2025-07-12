@@ -69,7 +69,7 @@ function updateLS(){
     });
 
     localStorage.setItem('notes', JSON.stringify(notes));
-}
+} console.log()
 
 
 
